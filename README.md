@@ -9,7 +9,7 @@
 ## How to play
 
 - press 'Start'
-- type as many words ad you can
+- type as many words as you can
 - once the 'Time remaining' goes to 0, you'll see how many words you typed at the bottom
 
 ### What was learned / used
